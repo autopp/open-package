@@ -1,0 +1,20 @@
+{
+  "name": "open-package",
+  "main": "./lib/open-package",
+  "version": "0.0.0",
+  "description": "Open a installed package in Atom",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "open-package:toggle"
+  },
+  "repository": "https://github.com/autopp/open-package",
+  "license": "Apache License, Version 2.0",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-select-list": "0.0.5",
+    "fuzzaldrin-plus": "^0.4.1"
+  }
+}

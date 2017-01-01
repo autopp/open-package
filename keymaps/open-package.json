@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "shift-ctrl-o": "open-package:toggle"
+  }
+}

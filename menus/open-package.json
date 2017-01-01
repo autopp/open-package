@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "open-package",
+          "submenu": [
+            {
+              "label": "Open Package",
+              "command": "open-package:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
