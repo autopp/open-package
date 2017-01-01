@@ -3,7 +3,7 @@
   "main": "./lib/open-package",
   "version": "0.1.0",
   "description": "Open a installed package in Atom",
-  "keywords": [],
+  "keywords": ["package"],
   "activationCommands": {
     "atom-workspace": "open-package:toggle"
   },
