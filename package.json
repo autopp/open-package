@@ -1,10 +1,9 @@
 {
   "name": "open-package",
   "main": "./lib/open-package",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Open a installed package in Atom",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "open-package:toggle"
   },
